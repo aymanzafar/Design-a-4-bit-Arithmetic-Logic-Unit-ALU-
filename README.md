@@ -62,7 +62,7 @@ All designs were created, simulated, and validated at the **transistor level** u
 
 ## 📄 Project Report
 
-📎 [Click here to view the full project report (PDF)](./VLSI_Project_Report.pdf)
+📎 [Click here to view the full project report (PDF)](./Project_Report/Design_of_a_4-bit_ALU.pdf)
 
 ---
 
