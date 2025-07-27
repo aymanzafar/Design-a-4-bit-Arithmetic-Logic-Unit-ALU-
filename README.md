@@ -30,6 +30,11 @@ This project implements a **4-bit ALU** that performs basic arithmetic and logic
 All designs were created, simulated, and validated at the **transistor level** using the **Cadence Virtuoso** platform. The final output is stored in 4-bit registers after the inputs are loaded through dedicated input registers.
 
 ---
+## 🖥️ Tools Used
+
+- Cadence (Virtuoso tool)
+
+---
 
 ## 🧠 Features
 
@@ -52,10 +57,6 @@ All designs were created, simulated, and validated at the **transistor level** u
 | AND / OR / XOR| Logical operations        |
 | MUX           | 2:1 and 4:1 selectors     |
 
----
-
-## 📂 Repository Structure
-
 
 ---
 
@@ -74,10 +75,10 @@ Please check the `ALU` folder for all figures and outputs used in the project re
 ## 🧑‍🎓 Author
 
 **Ayman Zafar**  
-B.Sc. in Electrical and Electronic Engineering  
-United International University
-Dhaka, Bangladesh
-Email: [nov.aymanz@gmail.com]  
-GitHub: [https://github.com/aymanzafar]
-Linkedin: [https://www.linkedin.com/in/ayman-zafar] 
+-B.Sc. in Electrical and Electronic Engineering  
+-United International University
+-Dhaka, Bangladesh
+-Email: [nov.aymanz@gmail.com]  
+-GitHub: [https://github.com/aymanzafar]
+-Linkedin: [https://www.linkedin.com/in/ayman-zafar] 
 
