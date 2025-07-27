@@ -76,9 +76,8 @@ Please check the `ALU` folder for all figures and outputs used in the project re
 
 **Ayman Zafar**  
 B.Sc. in Electrical and Electronic Engineering  
-United International University
+United International University,
 Dhaka, Bangladesh.
-
 Email: [nov.aymanz@gmail.com]  
 GitHub: [https://github.com/aymanzafar]
 Linkedin: [https://www.linkedin.com/in/ayman-zafar] 
